@@ -30,8 +30,8 @@
 /* Small mobile devices (up to 480px) */
 @media (max-width: 480px) {
     .hero-section {
-        height: 60vh; 
-        min-height: 400px; 
+        height: 70vh; 
+        min-height: 500px; 
     }
 }
          #hero-video {
