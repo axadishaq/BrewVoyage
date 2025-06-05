@@ -1,13 +1,14 @@
 
          * {
-            font-family: Merienda, cursive;
+                 font-family: Merienda, cursive;
+                 scroll-behavior: smooth;
+                 scroll-padding-top: 65px;
          }
          /* General Styles */
          body {
             font-family: "Nunito Sans", sans-serif;
             color: #4a2c2a; /* Dark brown for text */
             background-color: #f5f5f5;
-            scroll-behavior: smooth;
          }
 
          /* Hero Section */
