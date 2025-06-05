@@ -20,7 +20,20 @@
             justify-content: center;
             overflow: hidden;
          }
+@media (max-width: 768px) {
+    .hero-section {
+        height: 80vh; 
+        min-height: 580px; 
+    }
+}
 
+/* Small mobile devices (up to 480px) */
+@media (max-width: 480px) {
+    .hero-section {
+        height: 60vh; 
+        min-height: 400px; 
+    }
+}
          #hero-video {
             position: absolute;
             top: 0;
